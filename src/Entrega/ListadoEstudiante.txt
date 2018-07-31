@@ -3,5 +3,11 @@
 2000,KarenCassasRodriguez,20
 1997,KaherineBlanquicet&&,22
 1999,YessicaParadaSuarez&,21
-1992,GloriaAlejandraCasta�,26
+1992,GloriaAlejandraCasta�,26
 1996,AnaXiomaraCaisedo&&&,22
+1972,MaríAcevedoManríquez,18
+1849,MireyaMercadoMejía++,26
+1813,HernanGimenezAmante+,11
+1574,SergioRuizMartinez++,34
+1545,AngiePerezMoncada+++,13
+1818,FabianCarrilloSuarez,23
